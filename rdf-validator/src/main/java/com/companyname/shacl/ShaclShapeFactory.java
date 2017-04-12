@@ -44,8 +44,7 @@ import com.companyname.shacl.annotations.ShaclMinCount;
 import com.companyname.shacl.annotations.ShaclMinExclusive;
 import com.companyname.shacl.annotations.ShaclMinInclusive;
 import com.companyname.shacl.annotations.ShaclName;
-
-import es.weso.shacl.In;
+import com.companyname.shacl.ShaclShape;
 
 
 public final class ShaclShapeFactory {
