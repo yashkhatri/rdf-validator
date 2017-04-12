@@ -31,19 +31,19 @@ import org.eclipse.lyo.oslc4j.core.model.IReifiedResource;
 import org.eclipse.lyo.oslc4j.core.model.InheritedMethodAnnotationHelper;
 import org.eclipse.lyo.oslc4j.core.model.ValueType;
 
-import com.scania.shacl.annotations.RDFType;
-import com.scania.shacl.annotations.RdfsIsDefinedBy;
-import com.scania.shacl.annotations.RdfsLabel;
-import com.scania.shacl.annotations.ShaclClassType;
-import com.scania.shacl.annotations.ShaclDataType;
-import com.scania.shacl.annotations.ShaclIn;
-import com.scania.shacl.annotations.ShaclMaxCount;
-import com.scania.shacl.annotations.ShaclMaxExclusive;
-import com.scania.shacl.annotations.ShaclMaxInclusive;
-import com.scania.shacl.annotations.ShaclMinCount;
-import com.scania.shacl.annotations.ShaclMinExclusive;
-import com.scania.shacl.annotations.ShaclMinInclusive;
-import com.scania.shacl.annotations.ShaclName;
+import com.companyname.shacl.annotations.RDFType;
+import com.companyname.shacl.annotations.RdfsIsDefinedBy;
+import com.companyname.shacl.annotations.RdfsLabel;
+import com.companyname.shacl.annotations.ShaclClassType;
+import com.companyname.shacl.annotations.ShaclDataType;
+import com.companyname.shacl.annotations.ShaclIn;
+import com.companyname.shacl.annotations.ShaclMaxCount;
+import com.companyname.shacl.annotations.ShaclMaxExclusive;
+import com.companyname.shacl.annotations.ShaclMaxInclusive;
+import com.companyname.shacl.annotations.ShaclMinCount;
+import com.companyname.shacl.annotations.ShaclMinExclusive;
+import com.companyname.shacl.annotations.ShaclMinInclusive;
+import com.companyname.shacl.annotations.ShaclName;
 
 import es.weso.shacl.In;
 
